@@ -1,0 +1,1 @@
+# Word2Vec_exemplo_1
